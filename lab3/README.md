@@ -5,6 +5,7 @@ NumPy, Pandas, Scikit-learn, Matplotlib/Seaborn.
 a. KNN (K-Nearest Neighbors)
 b. Decision Tree
 3. Hiển thị kết quả lên website
+
 KNN_BT1-practice:
 
 ![Screenshot 2024-10-05 205748](https://github.com/user-attachments/assets/64785019-2dfb-4c1d-8e8d-a94fca789685)
