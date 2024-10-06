@@ -9,7 +9,10 @@ b. Decision Tree
 KNN_BT1-practice:
 
 ![Screenshot 2024-10-05 205748](https://github.com/user-attachments/assets/64785019-2dfb-4c1d-8e8d-a94fca789685)
+
 KNN_BT2-practice:
+
+T![Screenshot 2024-10-06 101858](https://github.com/user-attachments/assets/d6713b5c-ef65-4656-9fb8-4d699233010e)
 
 Centroid_practice:
 
@@ -18,4 +21,4 @@ Centroid_practice:
 4. Kết quả so sánh giữa hai thuật toán
 Độ chính xác: KNN đạt 92.5%, cao hơn Decision Tree (90.0%).
 Thời gian huấn luyện: KNN nhanh hơn (0.10 giây so với 0.25 giây).
-Thời gian dự đoán: Decision Tree nhanh hơn (0.05 giây so với 0.15 giây).
+hời gian dự đoán: Decision Tree nhanh hơn (0.05 giây so với 0.15 giây).
