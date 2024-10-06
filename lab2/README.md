@@ -8,6 +8,7 @@ pandas, sklearn, CountVectorizer, LabelEncoder.
 Bài 1: Mô hình Naive Bayes Bernoulli
 
 Bài 2: Mô hình Naive Bayes Gaussian
+
 3. Hiển thị kết quả lên website
 Bài 1:
 ![Screenshot 2024-10-05 211705](https://github.com/user-attachments/assets/1fdf0f19-6fc6-42ac-b52b-135caa642f9f)
