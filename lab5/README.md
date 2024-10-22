@@ -18,3 +18,4 @@ Soft Margin: Cho phép một số điểm dữ liệu bị phân loại sai đ�
 
 3. Hiển thị kết quả lên website
 ![Screenshot 2024-10-19 080619](https://github.com/user-attachments/assets/bf89c42a-c3cf-457a-a9b6-0c84519f5209)
+![z5953817540690_21be7461c1b4adedd58ed969a7f836bb](https://github.com/user-attachments/assets/e92a1914-eade-4588-b059-c63dbd0fb646)
